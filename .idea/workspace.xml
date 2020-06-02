@@ -14,7 +14,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8183992-2017-41dd-830f-eb803b18bead" name="Default Changelist" comment="" />
+    <list default="true" id="c8183992-2017-41dd-830f-eb803b18bead" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,11 +144,21 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="423" y="28" key="CommitChangelistDialog2" timestamp="1591086973731">
+    <state x="423" y="28" key="CommitChangelistDialog2" timestamp="1591090041108">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="423" y="28" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1591086973731" />
+    <state x="423" y="28" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1591090041108" />
     <state x="548" y="187" key="FileChooserDialogImpl" timestamp="1591085938443">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -155,6 +167,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="639" y="326" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1591085643759" />
+    <state x="651" y="154" key="RollbackChangesDialog" timestamp="1591089689580">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="651" y="154" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1591089689580" />
     <state x="277" y="76" key="SettingsEditor" timestamp="1591085989805">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -163,13 +179,13 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="586" y="210" key="chooseDestDirectoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1591082162535" />
-    <state x="466" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1591087550593">
+    <state x="466" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1591089952151">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="466" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1591087550593" />
-    <state x="581" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591088219304">
+    <state x="466" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1591089952151" />
+    <state x="581" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591089537170">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="581" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1591088219304" />
+    <state x="581" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1591089537170" />
   </component>
 </project>
